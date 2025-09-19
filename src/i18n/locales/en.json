@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services", 
+    "fitness": "Fitness",
+    "policy": "Policy"
+  },
+  "hero": {
+    "title": "Natural‑look permanent makeup and brows in Warsaw, booked in seconds.",
+    "subtitle": "5.0/5 from verified Booksy reviews at Smolna 8 — see results below.",
+    "primary_cta": "Book on Booksy",
+    "secondary_cta_1": "Brow Lamination Today",
+    "secondary_cta_2": "Request Fitness Plan"
+  },
+  "services": {
+    "title": "Premium PMU Services",
+    "subtitle": "Expert permanent makeup with natural, modern techniques",
+    "ombre_brows": "Ombre/Shadow Brows",
+    "lip_blush": "Lip Blush", 
+    "eyeliner": "Eyeliner",
+    "brow_lamination": "Brow Lamination & Tint",
+    "benefit": "Soft, natural finish with modern shading methods.",
+    "duration": "Duration:",
+    "price": "Price:",
+    "book_service": "Book This Service"
+  },
+  "fitness": {
+    "title": "Supportive 1‑to‑1 personal training for sustainable results.",
+    "subtitle": "Mother-friendly coaching focused on your wellbeing",
+    "bullet_1": "Personalized plans without pressure",
+    "bullet_2": "Mother‑friendly scheduling", 
+    "bullet_3": "Stress‑aware coaching",
+    "form_title": "Get Your Free Consultation",
+    "goals": "Your Goals",
+    "schedule": "Preferred Schedule",
+    "language": "Preferred Language",
+    "location": "Location Preference",
+    "contact": "Contact Method",
+    "submit": "Request Consultation",
+    "zdrofit_note": "Training available at Zdrofit Pruszków CH Nowa Stacja"
+  },
+  "reviews": {
+    "title": "What Our Clients Say",
+    "rating": "5.0/5",
+    "read_more": "Read on Booksy"
+  },
+  "gallery": {
+    "title": "Recent Work",
+    "filter_all": "All",
+    "filter_brows": "Brows",
+    "filter_lips": "Lips", 
+    "filter_eyeliner": "Eyeliner",
+    "filter_lamination": "Lamination"
+  },
+  "location": {
+    "title": "Visit Our Studio",
+    "address": "Smolna 8, 00‑375, Śródmieście, Warsaw",
+    "subtitle": "Extended hours for convenience",
+    "hours": "Hours: Mon-Sat 9:00-20:00",
+    "arrival_title": "How to Find Us",
+    "arrival_1": "Enter building at Smolna 8",
+    "arrival_2": "Take elevator to 2nd floor", 
+    "arrival_3": "Studio is on the right",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram DM",
+    "directions": "Get Directions"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "contraindications": "What are the contraindications?",
+    "contraindications_answer": "Pregnancy, breastfeeding, active skin conditions, recent Botox (2 weeks), blood thinners, and autoimmune conditions. Full consultation covers all requirements.",
+    "prep": "How should I prepare?",
+    "prep_answer": "Avoid alcohol, caffeine, and blood thinners 24h before. No brow tweezing 1 week prior. Come makeup-free to the appointment area.",
+    "healing": "What's the healing timeline?",
+    "healing_answer": "Initial healing 7-10 days, full color development 4-6 weeks. Touch-up appointment recommended at 6-8 weeks for optimal results.",
+    "aftercare": "What aftercare is included?",
+    "aftercare_answer": "Day‑by‑day aftercare with touch‑up reminders included. Complete healing guide provided after treatment."
+  },
+  "policy": {
+    "title": "Studio Policies",
+    "subtitle": "Please review contraindications, prep checklist, and healing timeline before booking.",
+    "cancellation_title": "Cancellation & Rescheduling",
+    "cancellation_text": "24h notice required for changes. Same-day cancellations forfeit deposit. Reschedule up to 48h before appointment.",
+    "contraindications_title": "Health Requirements",
+    "prep_title": "Preparation Checklist",
+    "healing_title": "Healing Timeline",
+    "touchup_title": "Touch-up Policy",
+    "touchup_text": "Complimentary touch-up included within 8 weeks. Additional sessions at reduced rate if needed."
+  },
+  "cta": {
+    "booksy": "Book Now",
+    "fitness": "Fitness Consult",
+    "directions": "Directions"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "contact": "Contact",
+    "book_now": "Book Now",
+    "learn_more": "Learn More",
+    "view_all": "View All"
+  }
+}

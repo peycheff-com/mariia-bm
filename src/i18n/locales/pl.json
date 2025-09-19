@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "Główna",
+    "services": "Usługi",
+    "fitness": "Fitness", 
+    "policy": "Regulamin"
+  },
+  "hero": {
+    "title": "Naturalny makijaż permanentny i brwi w Warszawie, zarezerwuj w sekundach.",
+    "subtitle": "5.0/5 z zweryfikowanych opinii Booksy przy Smolnej 8 — zobacz efekty poniżej.",
+    "primary_cta": "Rezerwuj na Booksy",
+    "secondary_cta_1": "Laminacja Brwi Dzisiaj",
+    "secondary_cta_2": "Zapytaj o Plan Fitness"
+  },
+  "services": {
+    "title": "Usługi Premium PMU",
+    "subtitle": "Ekspert makijażu permanentnego z naturalnymi, nowoczesnymi technikami",
+    "ombre_brows": "Brwi Ombre/Shadow",
+    "lip_blush": "Róż do Ust",
+    "eyeliner": "Kreska",
+    "brow_lamination": "Laminacja i Farbowanie Brwi",
+    "benefit": "Miękkie, naturalne wykończenie nowoczesnymi metodami cieniowania.",
+    "duration": "Czas trwania:",
+    "price": "Cena:",
+    "book_service": "Zarezerwuj Usługę"
+  },
+  "fitness": {
+    "title": "Wspierający trening personalny 1‑na‑1 dla trwałych rezultatów.",
+    "subtitle": "Coaching przyjazny mamom, skupiony na Twoim dobrostanie",
+    "bullet_1": "Spersonalizowane plany bez presji",
+    "bullet_2": "Harmonogram przyjazny mamom",
+    "bullet_3": "Coaching uwzględniający stres",
+    "form_title": "Otrzymaj Darmową Konsultację",
+    "goals": "Twoje Cele",
+    "schedule": "Preferowany Harmonogram",
+    "language": "Preferowany Język",
+    "location": "Preferowana Lokalizacja",
+    "contact": "Sposób Kontaktu",
+    "submit": "Zapytaj o Konsultację",
+    "zdrofit_note": "Treningi dostępne w Zdrofit Pruszków CH Nowa Stacja"
+  },
+  "reviews": {
+    "title": "Co Mówią Nasi Klienci",
+    "rating": "5.0/5",
+    "read_more": "Czytaj na Booksy"
+  },
+  "gallery": {
+    "title": "Najnowsze Prace",
+    "filter_all": "Wszystkie",
+    "filter_brows": "Brwi", 
+    "filter_lips": "Usta",
+    "filter_eyeliner": "Kreska",
+    "filter_lamination": "Laminacja"
+  },
+  "location": {
+    "title": "Odwiedź Nasze Studio",
+    "address": "Smolna 8, 00‑375, Śródmieście, Warszawa",
+    "subtitle": "Wydłużone godziny dla wygody",
+    "hours": "Godziny: Pon-Sob 9:00-20:00",
+    "arrival_title": "Jak Nas Znaleźć",
+    "arrival_1": "Wejście do budynku przy Smolnej 8",
+    "arrival_2": "Windą na 2. piętro",
+    "arrival_3": "Studio po prawej stronie",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram DM",
+    "directions": "Dojazd"
+  },
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania",
+    "contraindications": "Jakie są przeciwwskazania?",
+    "contraindications_answer": "Ciąża, karmienie piersią, aktywne choroby skóry, niedawny Botox (2 tygodnie), leki przeciwkrzepliwe i choroby autoimmunologiczne. Pełna konsultacja obejmuje wszystkie wymagania.",
+    "prep": "Jak się przygotować?",
+    "prep_answer": "Unikaj alkoholu, kofeiny i leków przeciwkrzepliwych 24h wcześniej. Nie wyrywaj brwi przez tydzień przed. Przyjdź bez makijażu w obszarze zabiegu.",
+    "healing": "Jaki jest harmonogram gojenia?",
+    "healing_answer": "Wstępne gojenie 7-10 dni, pełny rozwój koloru 4-6 tygodni. Wizyta poprawkowa zalecana po 6-8 tygodniach dla optymalnych rezultatów.",
+    "aftercare": "Jaka pielęgnacja jest wliczona?",
+    "aftercare_answer": "Codzienna pielęgnacja z przypomnieniami o poprawkach wliczona. Kompletny przewodnik gojenia dostarczony po zabiegu."
+  },
+  "policy": {
+    "title": "Regulamin Studio",
+    "subtitle": "Proszę przejrzyj przeciwwskazania, listę przygotowań i harmonogram gojenia przed rezerwacją.",
+    "cancellation_title": "Anulowanie i Przesunięcie",
+    "cancellation_text": "Wymagane 24h powiadomienie o zmianach. Anulowania tego samego dnia skutkują utratą depozytu. Przesunięcie do 48h przed wizytą.",
+    "contraindications_title": "Wymagania Zdrowotne",
+    "prep_title": "Lista Przygotowań",
+    "healing_title": "Harmonogram Gojenia",
+    "touchup_title": "Zasady Poprawek",
+    "touchup_text": "Bezpłatna poprawka wliczona w ciągu 8 tygodni. Dodatkowe sesje po obniżonej cenie w razie potrzeby."
+  },
+  "cta": {
+    "booksy": "Zarezerwuj",
+    "fitness": "Konsultacja Fitness",
+    "directions": "Dojazd"
+  },
+  "common": {
+    "loading": "Ładowanie...",
+    "error": "Coś poszło nie tak",
+    "contact": "Kontakt",
+    "book_now": "Zarezerwuj Teraz",
+    "learn_more": "Dowiedz Się Więcej",
+    "view_all": "Zobacz Wszystkie"
+  }
+}
