@@ -1,18 +1,40 @@
 // Analytics utilities for GA4 and Meta Pixel tracking
 
 export const trackEvent = (eventName: string, parameters: Record<string, any> = {}) => {
+  const eventData = {
+    ...parameters,
+    page_location: window.location.href,
+    timestamp: Date.now(),
+  };
+
   // GA4 tracking
   if (typeof window !== 'undefined' && 'gtag' in window) {
-    (window as any).gtag('event', eventName, {
-      ...parameters,
-      page_location: window.location.href,
-      timestamp: Date.now(),
-    });
+    (window as any).gtag('event', eventName, eventData);
+    
+    // Dispatch debug event
+    window.dispatchEvent(new CustomEvent('analytics-debug', {
+      detail: {
+        timestamp: Date.now(),
+        event: eventName,
+        parameters: eventData,
+        source: 'GA4'
+      }
+    }));
   }
 
-  // Meta Pixel tracking (if needed)
+  // Meta Pixel tracking
   if (typeof window !== 'undefined' && 'fbq' in window) {
     (window as any).fbq('trackCustom', eventName, parameters);
+    
+    // Dispatch debug event
+    window.dispatchEvent(new CustomEvent('analytics-debug', {
+      detail: {
+        timestamp: Date.now(),
+        event: eventName,
+        parameters: parameters,
+        source: 'Meta Pixel'
+      }
+    }));
   }
 
   // Debug logging

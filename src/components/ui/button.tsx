@@ -19,6 +19,8 @@ const buttonVariants = cva(
         hero: "bg-gradient-to-r from-accent to-burgundy-dark text-primary-foreground hover:from-burgundy-dark hover:to-accent shadow-button hover:shadow-elegant transform hover:scale-[1.02] transition-spring font-semibold",
         fitness: "bg-secondary text-secondary-foreground hover:bg-accent hover:text-accent-foreground border border-accent/20 hover:border-accent/40 transition-smooth",
         cta: "bg-gradient-to-r from-rose-gold to-rose-gold-light text-primary-foreground hover:from-rose-gold-dark hover:to-rose-gold shadow-elegant hover:shadow-button transform hover:scale-[1.02] transition-spring font-bold text-base",
+        whatsapp: "bg-green-600 text-white hover:bg-green-700 transition-colors",
+        instagram: "bg-gradient-to-r from-purple-500 to-pink-500 text-white hover:from-purple-600 hover:to-pink-600 transition-colors",
       },
       size: {
         default: "h-10 px-4 py-2",

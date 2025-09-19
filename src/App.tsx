@@ -12,6 +12,7 @@ import Policy from "./pages/Policy";
 import NotFound from "./pages/NotFound";
 import { Navigation } from "./components/Navigation";
 import { StickyCTA } from "./components/StickyCTA";
+import { DebugPanel } from "./components/DebugPanel";
 
 const queryClient = new QueryClient();
 
@@ -33,6 +34,7 @@ const App = () => (
             </Routes>
           </Suspense>
           <StickyCTA />
+          <DebugPanel />
         </div>
       </BrowserRouter>
     </TooltipProvider>

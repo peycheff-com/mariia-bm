@@ -92,6 +92,65 @@
     "fitness": "Fitness Consult",
     "directions": "Directions"
   },
+  "reviews": {
+    "title": "What Our Clients Say",
+    "subtitle": "Real results, verified reviews from Booksy",
+    "review_1": "Perfect ombre brows! Natural looking and exactly what I wanted. Maria is so professional and talented.",
+    "review_2": "Amazing lip blush results! The color is perfect and healing was exactly as described. Highly recommend!",
+    "review_3": "Best brow lamination in Warsaw! My brows look amazing and the studio is so clean and professional.",
+    "verified": "Verified Booksy Review",
+    "cta": "Read All Reviews on Booksy"
+  },
+  "gallery": {
+    "title": "Our Work",
+    "subtitle": "Recent results and behind-the-scenes from our studio",
+    "filter_all": "All",
+    "filter_brows": "Brows",
+    "filter_lips": "Lips", 
+    "filter_eyeliner": "Eyeliner",
+    "filter_lamination": "Lamination",
+    "instagram_cta": "Follow us for daily updates and client transformations"
+  },
+  "location": {
+    "title": "Visit Our Studio",
+    "convenience": "Extended hours for your convenience",
+    "hours_title": "Opening Hours",
+    "directions": "Get Directions",
+    "arrival_title": "How to Find Us",
+    "step_1": "Enter the building at Smolna 8, main entrance",
+    "step_2": "Take elevator to 2nd floor, turn right",
+    "step_3": "Studio is the first door on your left",
+    "map_loading": "Interactive map loading..."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know before your appointment",
+    "contraindications": {
+      "question": "What are the contraindications for permanent makeup?",
+      "answer": "Please avoid permanent makeup if you are:\n• Pregnant or breastfeeding\n• Taking blood thinners\n• Have active skin conditions in the treatment area\n• Have autoimmune disorders\n• Recently had Botox (wait 2 weeks)\n\nPlease consult with us if you have any concerns."
+    },
+    "preparation": {
+      "question": "How should I prepare for my appointment?",
+      "answer": "24-48 hours before:\n• Avoid alcohol and caffeine\n• Don't take aspirin or blood thinners\n• Avoid sun exposure to the treatment area\n• Don't wax or tint brows for 1 week\n• Come with clean, makeup-free skin\n• Eat a good meal before coming"
+    },
+    "healing": {
+      "question": "What should I expect during healing?",
+      "answer": "Healing timeline:\n• Days 1-3: Darker than expected, slight swelling\n• Days 4-7: Scabbing and flaking (don't pick!)\n• Days 8-14: Color appears lighter\n• Weeks 3-4: True color emerges\n• Week 6-8: Fully healed\n\nComplete healing takes 6-8 weeks."
+    },
+    "touchup": {
+      "question": "When do I need a touch-up?",
+      "answer": "First touch-up is included and recommended:\n• 6-8 weeks after initial procedure\n• Allows us to perfect color and shape\n• Essential for best long-term results\n\nAnnual touch-ups recommended to maintain color intensity."
+    },
+    "aftercare": {
+      "question": "What aftercare is required?",
+      "answer": "For best results:\n• Keep area dry for 24-48 hours\n• Apply healing balm as directed\n• Avoid makeup on treated area for 1 week\n• No swimming, saunas, or intense workouts for 1 week\n• Avoid direct sun exposure\n• Don't pick or scratch healing skin\n\nDetailed aftercare sheet provided."
+    },
+    "booking": {
+      "question": "How do I book and what's your cancellation policy?",
+      "answer": "Booking:\n• Book directly through Booksy for instant confirmation\n• 50% deposit required to secure appointment\n• Full payment due day of service\n\nCancellation policy:\n• 48 hours notice required for changes\n• Less than 24 hours = forfeit deposit\n• No-shows forfeit full payment"
+    },
+    "contact_cta": "Still have questions? Contact us directly:"
+  },
   "common": {
     "loading": "Loading...",
     "error": "Something went wrong",
