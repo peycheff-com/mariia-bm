@@ -92,6 +92,34 @@
     "fitness": "Konsultacja Fitness",
     "directions": "Dojazd"
   },
+  "testimonials": {
+    "title": "Co Mówią Nasze Klientki",
+    "subtitle": "Prawdziwe transformacje, prawdziwe opinie od zweryfikowanych klientek",
+    "cta": "Przeczytaj Wszystkie Opinie na Booksy"
+  },
+  "gallery": {
+    "interactive_title": "Zobacz Transformację",
+    "interactive_subtitle": "Porównaj efekty przed i po naszych premium usługach PMU",
+    "book_transformation": "Zarezerwuj Swoją Transformację"
+  },
+  "pricing": {
+    "title": "Premium Usługi PMU",
+    "subtitle": "Profesjonalny makijaż permanentny z przejrzystymi cenami bez ukrytych kosztów",
+    "book_service": "Zarezerwuj Usługę",
+    "package_deals_title": "Oszczędź z Pakietami",
+    "package_deals_subtitle": "Połącz usługi dla maksymalnej wartości i wygody",
+    "book_package": "Zarezerwuj Pakiet",
+    "financing_title": "Dostępne Elastyczne Opcje Płatności",
+    "financing_subtitle": "Zapytaj o nasze plany ratalne podczas konsultacji"
+  },
+  "certifications": {
+    "title": "Certyfikowana Doskonałość i Bezpieczeństwo",
+    "subtitle": "Twoje bezpieczeństwo i satysfakcja są gwarantowane przez nasze profesjonalne certyfikaty",
+    "credentials_title": "Kwalifikacje Zawodowe",
+    "credentials_subtitle": "Stale aktualizowane szkolenia i certyfikaty",
+    "standards_title": "Zobowiązani do Najwyższych Standardów Zawodowych",
+    "standards_subtitle": "Przestrzegamy surowych protokołów bezpieczeństwa i używamy tylko premium materiałów zatwierdzonych przez UE"
+  },
   "common": {
     "loading": "Ładowanie...",
     "error": "Coś poszło nie tak",

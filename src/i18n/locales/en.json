@@ -151,6 +151,34 @@
     },
     "contact_cta": "Still have questions? Contact us directly:"
   },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Real transformations, real reviews from verified clients",
+    "cta": "Read All Reviews on Booksy"
+  },
+  "gallery": {
+    "interactive_title": "See the Transformation",
+    "interactive_subtitle": "Compare before and after results from our premium PMU services",
+    "book_transformation": "Book Your Transformation"
+  },
+  "pricing": {
+    "title": "Premium PMU Services",
+    "subtitle": "Professional permanent makeup with transparent pricing and no hidden fees",
+    "book_service": "Book This Service",
+    "package_deals_title": "Save with Package Deals",
+    "package_deals_subtitle": "Combine services for maximum value and convenience",
+    "book_package": "Book Package",
+    "financing_title": "Flexible Payment Options Available",
+    "financing_subtitle": "Ask about our installment plans during consultation"
+  },
+  "certifications": {
+    "title": "Certified Excellence & Safety",
+    "subtitle": "Your safety and satisfaction are guaranteed by our professional certifications",
+    "credentials_title": "Professional Credentials",
+    "credentials_subtitle": "Continuously updated training and certifications",
+    "standards_title": "Committed to the Highest Professional Standards",
+    "standards_subtitle": "We maintain strict safety protocols and use only premium, EU-approved materials for your peace of mind"
+  },
   "common": {
     "loading": "Loading...",
     "error": "Something went wrong",
